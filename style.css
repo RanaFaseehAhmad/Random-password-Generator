@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+
+body {
+    background: rgb(2, 2, 44) !important;
+}
+
+.passwordapp {
+    width: 50%;
+    margin: 150px 100px 100px 100px;
+}
+
+.heading1 {
+    margin-bottom: 20px;
+    color: white;
+
+}
+
+.heading2 {
+    color: green;
+}
+
+hr {
+    margin: 5px 0 25px 0;
+    width: 290px;
+    border: 1px solid green;
+}
+
+.inputfield {
+    outline: 0;
+    border: 0px;
+    width: 400px;
+}
+
+.input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: white;
+}
+
+img {
+    width: 28px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+
+}
+
+button {
+    width: 200px;
+    padding: 6px;
+    margin-top: 20px;
+    border: 0;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
