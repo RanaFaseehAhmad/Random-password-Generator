@@ -53,9 +53,3 @@ function copypassword() {
 
 
 
-// if (inputfield.value == "") {
-//     alert("no text")
-// } else if (inputfield.value !== "") {
-
-//     alert("text generated");
-// }
